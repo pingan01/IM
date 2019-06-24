@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMTest</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="the_other_side_is_typing">对方正在输入&#046;&#046;&#046;</string>
+    <string name="the_other_side_is__speaking">对方正在讲话&#046;&#046;&#046;</string>
+</resources>
